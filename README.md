@@ -1,0 +1,4 @@
+- 👋 Hi, I’m JC,
+- I have no experienc with computer science but the reason I joined this class is because I think that in the future (and currently in the present) there will be
+- more and more open doors for me if I have at least a basic knowledge of computer science and what it entails. I have also always had an interest in computer science and coding
+- so I think that I will enjoy this class.
